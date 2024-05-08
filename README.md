@@ -2,7 +2,7 @@
 
 This repository contains Python code for building a machine learning model to classify flu-like illness based on a set of symptoms.
 
-Functionality:
+**Functionality:**
 
 **Data Loading:** Loads data from a CSV file containing features (symptoms) and a target variable indicating the presence or absence of flu-like illness.
 
