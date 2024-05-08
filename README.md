@@ -9,9 +9,9 @@ Functionality:
 **Preprocessing:** (Placeholder) Allows for custom preprocessing steps like handling missing values and converting categorical variables.
 
 **Model Training:** Trains three different machine learning models:
-    -Support Vector Machine (SVM)
-    -Gaussian Naive Bayes (NB)
-    -Random Forest Classifier (RF)
+- Support Vector Machine (SVM)
+- Gaussian Naive Bayes (NB)
+- Random Forest Classifier (RF)
 
 **Evaluation:** Calculates accuracy on a held-out test set for each model.
 
