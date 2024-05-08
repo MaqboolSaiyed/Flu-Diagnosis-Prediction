@@ -4,18 +4,18 @@ This repository contains Python code for building a machine learning model to cl
 
 Functionality:
 
--**Data Loading:** Loads data from a CSV file containing features (symptoms) and a target variable indicating the presence or absence of flu-like illness.
+**Data Loading:** Loads data from a CSV file containing features (symptoms) and a target variable indicating the presence or absence of flu-like illness.
 
--**Preprocessing:** (Placeholder) Allows for custom preprocessing steps like handling missing values and converting categorical variables.
+**Preprocessing:** (Placeholder) Allows for custom preprocessing steps like handling missing values and converting categorical variables.
 
--**Model Training:** Trains three different machine learning models:
+**Model Training:** Trains three different machine learning models:
 - Support Vector Machine (SVM)
 - Gaussian Naive Bayes (NB)
 - Random Forest Classifier (RF)
 
--**Evaluation:** Calculates accuracy on a held-out test set for each model.
+**Evaluation:** Calculates accuracy on a held-out test set for each model.
 
--**Prediction Function:**
+**Prediction Function:**
 - Takes a list of symptoms (0 or 1) as input.
 - Verifies the number of symptoms matches the expected features.
 - Makes predictions using each trained model.
@@ -45,5 +45,5 @@ Functionality:
 - statistics (for mode)
 - collections (for Counter)
 
-**Disclaimer**
+**Disclaimer:**
 This code is provided for educational purposes only and should not be used for real-world medical diagnosis. Consult a healthcare professional for any medical concerns.
